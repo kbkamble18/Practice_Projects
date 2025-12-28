@@ -68,6 +68,6 @@ place= input()
 while True:
     print("Do you want another headline?(yes/no)")
     n = input()
-if n == "no":
-    break
-"""     
+    if n == "no":
+         break
+""""""
