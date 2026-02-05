@@ -69,5 +69,6 @@ while True:
     print("Do you want another headline?(yes/no)")
     n = input()
     if n == "no":
+      #new update coming soon
          break
 """"""
